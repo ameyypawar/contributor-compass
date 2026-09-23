@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Raw API dump is large and regenerable; the cleaned CSVs are committed.
+data/raw.jsonl
+data/collect.log
+
+# Maps GitHub logins to profile locations. Regenerable, and not ours to publish.
+data/locations.json

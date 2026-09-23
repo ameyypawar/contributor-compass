@@ -1,0 +1,3122 @@
+[
+  {
+    "repo": "seojoonkim/memkraft",
+    "stars": 200,
+    "language": "Python",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "PentHertz/grimoire",
+    "stars": 200,
+    "language": "Python",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "ptbsare/anx-calibre-manager",
+    "stars": 200,
+    "language": "Python",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "geroldmeisinger/ComfyUI-outputlists-combiner",
+    "stars": 200,
+    "language": "Python",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "databrickslabs/lakemeter-oss",
+    "stars": 200,
+    "language": "Python",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "pysb/pysb",
+    "stars": 200,
+    "language": "Python",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "ol-iver/denonavr",
+    "stars": 200,
+    "language": "Python",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "bigai-nlco/LooGLE",
+    "stars": 200,
+    "language": "Python",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "martinarva/dynamic_energy_cost",
+    "stars": 200,
+    "language": "Python",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "AlexandrErohin/TP-Link-Archer-C6U",
+    "stars": 200,
+    "language": "Python",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "asottile/astpretty",
+    "stars": 200,
+    "language": "Python",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "biodatageeks/polars-bio",
+    "stars": 200,
+    "language": "Python",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "Nathanw1014/strix-halo-llamacpp",
+    "stars": 200,
+    "language": "Python",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "vivisect/vivisect",
+    "stars": 1000,
+    "language": "Python",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "chainstacklabs/pumpfun-bonkfun-bot",
+    "stars": 1000,
+    "language": "Python",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "certifi/python-certifi",
+    "stars": 999,
+    "language": "Python",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "jc2744-fintech/taxguard-xai",
+    "stars": 999,
+    "language": "Python",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "NVlabs/DoRA",
+    "stars": 999,
+    "language": "Python",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "yijixiuxin/chanlun-pro",
+    "stars": 999,
+    "language": "Python",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "SpecterOps/Nemesis",
+    "stars": 999,
+    "language": "Python",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "rsheftel/pandas_market_calendars",
+    "stars": 999,
+    "language": "Python",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "sehmaschine/django-filebrowser",
+    "stars": 998,
+    "language": "Python",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "apple-aiml-research/ml-simplefold",
+    "stars": 998,
+    "language": "Python",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "otto-torino/django-baton",
+    "stars": 998,
+    "language": "Python",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "shanraisshan/codex-cli-best-practice",
+    "stars": 998,
+    "language": "Python",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "PINTO0309/onnx2tf",
+    "stars": 997,
+    "language": "Python",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "googlefonts/noto-emoji",
+    "stars": 4999,
+    "language": "Python",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "jazzband/django-silk",
+    "stars": 4994,
+    "language": "Python",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "sktime/pytorch-forecasting",
+    "stars": 4994,
+    "language": "Python",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "mistralai/mistral-vibe",
+    "stars": 4994,
+    "language": "Python",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "SCIR-HI/Huatuo-Llama-Med-Chinese",
+    "stars": 4993,
+    "language": "Python",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "togethercomputer/RedPajama-Data",
+    "stars": 4988,
+    "language": "Python",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "python-jsonschema/jsonschema",
+    "stars": 4986,
+    "language": "Python",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "gusmanb/logicanalyzer",
+    "stars": 4981,
+    "language": "Python",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "EvoScientist/EvoScientist",
+    "stars": 4980,
+    "language": "Python",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "googlemaps/google-maps-services-python",
+    "stars": 4979,
+    "language": "Python",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "kaifcodec/user-scanner",
+    "stars": 4977,
+    "language": "Python",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "shibing624/text2vec",
+    "stars": 4977,
+    "language": "Python",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "going-doer/Paper2Code",
+    "stars": 4964,
+    "language": "Python",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "Alibaba-NLP/DeepResearch",
+    "stars": 19983,
+    "language": "Python",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "nginx-proxy/nginx-proxy",
+    "stars": 19917,
+    "language": "Python",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "kaixindelele/ChatPaper",
+    "stars": 19870,
+    "language": "Python",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "pluja/awesome-privacy",
+    "stars": 19828,
+    "language": "Python",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "mikf/gallery-dl",
+    "stars": 19808,
+    "language": "Python",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "astral-sh/ty",
+    "stars": 19733,
+    "language": "Python",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "tanweai/pua",
+    "stars": 19680,
+    "language": "Python",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "allenai/olmocr",
+    "stars": 19651,
+    "language": "Python",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "mxrch/GHunt",
+    "stars": 19591,
+    "language": "Python",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "kvcache-ai/ktransformers",
+    "stars": 19535,
+    "language": "Python",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "openai/evals",
+    "stars": 19494,
+    "language": "Python",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "Avaiga/taipy",
+    "stars": 19434,
+    "language": "Python",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "teng-lin/notebooklm-py",
+    "stars": 19430,
+    "language": "Python",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "public-apis/public-apis",
+    "stars": 482385,
+    "language": "Python",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "EbookFoundation/free-programming-books",
+    "stars": 397472,
+    "language": "Python",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "donnemartin/system-design-primer",
+    "stars": 371350,
+    "language": "Python",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "vinta/awesome-python",
+    "stars": 322381,
+    "language": "Python",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "practical-tutorials/project-based-learning",
+    "stars": 284300,
+    "language": "Python",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "stars": 248151,
+    "language": "Python",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "TheAlgorithms/Python",
+    "stars": 224885,
+    "language": "Python",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "yt-dlp/yt-dlp",
+    "stars": 193015,
+    "language": "Python",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "Significant-Gravitas/AutoGPT",
+    "stars": 187503,
+    "language": "Python",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "microsoft/markitdown",
+    "stars": 186496,
+    "language": "Python",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "521xueweihan/HelloGitHub",
+    "stars": 178192,
+    "language": "Python",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "anthropics/skills",
+    "stars": 177673,
+    "language": "Python",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "huggingface/transformers",
+    "stars": 166544,
+    "language": "Python",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "rsuite/schema-typed",
+    "stars": 200,
+    "language": "JavaScript",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "ahmadzakiyox/gopay-api-gateaway",
+    "stars": 200,
+    "language": "JavaScript",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "vergess3/workbuddy-remote",
+    "stars": 200,
+    "language": "JavaScript",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "owncloud/notes",
+    "stars": 200,
+    "language": "JavaScript",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "LifaSun/WebDeck",
+    "stars": 200,
+    "language": "JavaScript",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "trytonlux/ProtonDB-for-Steam",
+    "stars": 200,
+    "language": "JavaScript",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "bjarneo/omarchy-workspace-layout",
+    "stars": 200,
+    "language": "JavaScript",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "sindresorhus/sort-on",
+    "stars": 200,
+    "language": "JavaScript",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "loretoparisi/fasttext.js",
+    "stars": 200,
+    "language": "JavaScript",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "MrXujiang/HiCAD",
+    "stars": 200,
+    "language": "JavaScript",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "Henglie/EBCTFCodeBox",
+    "stars": 200,
+    "language": "JavaScript",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "xdy/twodsix-foundryvtt",
+    "stars": 200,
+    "language": "JavaScript",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "chalk/ansi-regex",
+    "stars": 200,
+    "language": "JavaScript",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "camsong/fetch-jsonp",
+    "stars": 1000,
+    "language": "JavaScript",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "sophiamyang/finger-frame-effect-ai",
+    "stars": 1000,
+    "language": "JavaScript",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "newrelic/node-newrelic",
+    "stars": 999,
+    "language": "JavaScript",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "asciimath/asciimathml",
+    "stars": 999,
+    "language": "JavaScript",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "csstools/postcss-font-magician",
+    "stars": 998,
+    "language": "JavaScript",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "tailwindlabs/tailwindcss-aspect-ratio",
+    "stars": 998,
+    "language": "JavaScript",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "typefully/minimal-twitter",
+    "stars": 997,
+    "language": "JavaScript",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "FirefoxCSS-Store/FirefoxCSS-Store.github.io",
+    "stars": 997,
+    "language": "JavaScript",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "jae-jae/Camtd",
+    "stars": 996,
+    "language": "JavaScript",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "mattiasw/ExifReader",
+    "stars": 996,
+    "language": "JavaScript",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "VisualDataWeb/WebVOWL",
+    "stars": 996,
+    "language": "JavaScript",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "p2r3/ha.mr",
+    "stars": 995,
+    "language": "JavaScript",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "gooking/apifm-wxapi",
+    "stars": 995,
+    "language": "JavaScript",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "sintaxi/harp",
+    "stars": 4995,
+    "language": "JavaScript",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "brentvollebregt/auto-py-to-exe",
+    "stars": 4992,
+    "language": "JavaScript",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "SwiftOldDriver/iOS-Weekly",
+    "stars": 4984,
+    "language": "JavaScript",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "88lin/video_vip",
+    "stars": 4983,
+    "language": "JavaScript",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "shoutem/ui",
+    "stars": 4980,
+    "language": "JavaScript",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "frontend-collective/react-sortable-tree",
+    "stars": 4970,
+    "language": "JavaScript",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "fspecii/ace-step-ui",
+    "stars": 4963,
+    "language": "JavaScript",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "coreui/coreui-free-react-admin-template",
+    "stars": 4955,
+    "language": "JavaScript",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "pablof7z/chardin.js",
+    "stars": 4952,
+    "language": "JavaScript",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "apocas/dockerode",
+    "stars": 4948,
+    "language": "JavaScript",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "eKoopmans/html2pdf.js",
+    "stars": 4925,
+    "language": "JavaScript",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "hemanth/awesome-pwa",
+    "stars": 4921,
+    "language": "JavaScript",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "appbaseio/reactivesearch",
+    "stars": 4918,
+    "language": "JavaScript",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "11ty/buildawesome",
+    "stars": 19929,
+    "language": "JavaScript",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "mdx-js/mdx",
+    "stars": 19797,
+    "language": "JavaScript",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "testing-library/react-testing-library",
+    "stars": 19656,
+    "language": "JavaScript",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "datawhalechina/easy-vibe",
+    "stars": 19514,
+    "language": "JavaScript",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "decaporg/decap-cms",
+    "stars": 19395,
+    "language": "JavaScript",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "amark/gun",
+    "stars": 19134,
+    "language": "JavaScript",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "you-dont-need/You-Dont-Need-Lodash-Underscore",
+    "stars": 19131,
+    "language": "JavaScript",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "vuejs/vue-router",
+    "stars": 18864,
+    "language": "JavaScript",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "framework7io/framework7",
+    "stars": 18759,
+    "language": "JavaScript",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "alyssaxuu/screenity",
+    "stars": 18719,
+    "language": "JavaScript",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "hemanth/functional-programming-jargon",
+    "stars": 18717,
+    "language": "JavaScript",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "handlebars-lang/handlebars.js",
+    "stars": 18678,
+    "language": "JavaScript",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "youzan/vant-weapp",
+    "stars": 18452,
+    "language": "JavaScript",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "affaan-m/ECC",
+    "stars": 265547,
+    "language": "JavaScript",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "react/react",
+    "stars": 250658,
+    "language": "JavaScript",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "trekhleb/javascript-algorithms",
+    "stars": 196797,
+    "language": "JavaScript",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "Snailclimb/JavaGuide",
+    "stars": 158817,
+    "language": "JavaScript",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "airbnb/javascript",
+    "stars": 148261,
+    "language": "JavaScript",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "DietrichGebert/ponytail",
+    "stars": 144511,
+    "language": "JavaScript",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "vercel/next.js",
+    "stars": 142410,
+    "language": "JavaScript",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "Chalarangelo/30-seconds-of-code",
+    "stars": 129195,
+    "language": "JavaScript",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "nodejs/node",
+    "stars": 122048,
+    "language": "JavaScript",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "mrdoob/three.js",
+    "stars": 115781,
+    "language": "JavaScript",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "axios/axios",
+    "stars": 109213,
+    "language": "JavaScript",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "mui/material-ui",
+    "stars": 99084,
+    "language": "JavaScript",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "stars": 98504,
+    "language": "JavaScript",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "openameba/spindle",
+    "stars": 200,
+    "language": "TypeScript",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "geekforbrains/harbour",
+    "stars": 200,
+    "language": "TypeScript",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "rashagu/semi-design-vue",
+    "stars": 200,
+    "language": "TypeScript",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "Stanshy/AgentHub",
+    "stars": 200,
+    "language": "TypeScript",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "sergiodxa/remix-auth-oauth2",
+    "stars": 200,
+    "language": "TypeScript",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "antfu/diff-match-patch-es",
+    "stars": 200,
+    "language": "TypeScript",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "adrianjanocko/toastflow",
+    "stars": 200,
+    "language": "TypeScript",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "humeo/code-helm",
+    "stars": 200,
+    "language": "TypeScript",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "RyanGrieb/OpenCiv",
+    "stars": 200,
+    "language": "TypeScript",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "draftswithea/react-query-key-manager",
+    "stars": 200,
+    "language": "TypeScript",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "brijr/meta-mcp",
+    "stars": 200,
+    "language": "TypeScript",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "arc-mcp/arc-1",
+    "stars": 200,
+    "language": "TypeScript",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "Utopia-V/mixagents",
+    "stars": 200,
+    "language": "TypeScript",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "sebpiq/WebPd",
+    "stars": 1000,
+    "language": "TypeScript",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "Milkshiift/GoofCord",
+    "stars": 1000,
+    "language": "TypeScript",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "lorettawillow-lele/yozu-web",
+    "stars": 999,
+    "language": "TypeScript",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "festoney8/bilibili-cleaner",
+    "stars": 999,
+    "language": "TypeScript",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "likaia/js-screen-shot",
+    "stars": 999,
+    "language": "TypeScript",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "ConardLi/easy-agent",
+    "stars": 998,
+    "language": "TypeScript",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "moodlehq/moodleapp",
+    "stars": 998,
+    "language": "TypeScript",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "fabiospampinato/vscode-todo-plus",
+    "stars": 998,
+    "language": "TypeScript",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "element-hq/element-call",
+    "stars": 998,
+    "language": "TypeScript",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "joBr99/nspanel-lovelace-ui",
+    "stars": 997,
+    "language": "TypeScript",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "swimlane/ngx-graph",
+    "stars": 997,
+    "language": "TypeScript",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "jiweiyeah/Skills-Manager",
+    "stars": 997,
+    "language": "TypeScript",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "MadAppGang/claudish",
+    "stars": 997,
+    "language": "TypeScript",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "tiajinsha/JKVideo",
+    "stars": 4995,
+    "language": "TypeScript",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "bitpay/bitcore",
+    "stars": 4986,
+    "language": "TypeScript",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "parca-dev/parca",
+    "stars": 4980,
+    "language": "TypeScript",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "frappe/books",
+    "stars": 4979,
+    "language": "TypeScript",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "microsoft/tsdoc",
+    "stars": 4970,
+    "language": "TypeScript",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "microsoft/poml",
+    "stars": 4968,
+    "language": "TypeScript",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "actions/setup-node",
+    "stars": 4968,
+    "language": "TypeScript",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "MCSManager/MCSManager",
+    "stars": 4967,
+    "language": "TypeScript",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "campfirein/byterover-cli",
+    "stars": 4965,
+    "language": "TypeScript",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "FellouAI/eko",
+    "stars": 4962,
+    "language": "TypeScript",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "apple/embedding-atlas",
+    "stars": 4957,
+    "language": "TypeScript",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "react-native-linear-gradient/react-native-linear-gradient",
+    "stars": 4956,
+    "language": "TypeScript",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "microsoft/FluidFramework",
+    "stars": 4946,
+    "language": "TypeScript",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "infinitered/ignite",
+    "stars": 19944,
+    "language": "TypeScript",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "whyour/qinglong",
+    "stars": 19892,
+    "language": "TypeScript",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "nashsu/llm_wiki",
+    "stars": 19875,
+    "language": "TypeScript",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "refactoringhq/tolaria",
+    "stars": 19852,
+    "language": "TypeScript",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "linkwarden/linkwarden",
+    "stars": 19825,
+    "language": "TypeScript",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "apollographql/apollo-client",
+    "stars": 19802,
+    "language": "TypeScript",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "catppuccin/catppuccin",
+    "stars": 19789,
+    "language": "TypeScript",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "resend/react-email",
+    "stars": 19767,
+    "language": "TypeScript",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "dzhng/deep-research",
+    "stars": 19717,
+    "language": "TypeScript",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "elizaOS/eliza",
+    "stars": 19410,
+    "language": "TypeScript",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "radix-ui/primitives",
+    "stars": 19315,
+    "language": "TypeScript",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "shadcn-ui/taxonomy",
+    "stars": 19292,
+    "language": "TypeScript",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "mountain-loop/yaak",
+    "stars": 19250,
+    "language": "TypeScript",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "freeCodeCamp/freeCodeCamp",
+    "stars": 455994,
+    "language": "TypeScript",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "openclaw/openclaw",
+    "stars": 390273,
+    "language": "TypeScript",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "nilbuild/developer-roadmap",
+    "stars": 367932,
+    "language": "TypeScript",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "deepseek-ai/deepseek-harness",
+    "stars": 233666,
+    "language": "TypeScript",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "anomalyco/opencode",
+    "stars": 209473,
+    "language": "TypeScript",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "n8n-io/n8n",
+    "stars": 205734,
+    "language": "TypeScript",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "microsoft/vscode",
+    "stars": 192802,
+    "language": "TypeScript",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "firecrawl/firecrawl",
+    "stars": 183489,
+    "language": "TypeScript",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "langgenius/dify",
+    "stars": 156906,
+    "language": "TypeScript",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "anthropics/claude-code",
+    "stars": 147680,
+    "language": "TypeScript",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "yangshun/tech-interview-handbook",
+    "stars": 142884,
+    "language": "TypeScript",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "iptv-org/iptv",
+    "stars": 139309,
+    "language": "TypeScript",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "garrytan/gstack",
+    "stars": 133949,
+    "language": "TypeScript",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "cloud-gov/cf-hello-worlds",
+    "stars": 200,
+    "language": "Java",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "xTecna/solucoes-da-beecrowd",
+    "stars": 200,
+    "language": "Java",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "cyz7758520/Android_audio_talkback_demo_program",
+    "stars": 200,
+    "language": "Java",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "apache/accumulo-fluo",
+    "stars": 200,
+    "language": "Java",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "lunasaw/Sip-Proxy",
+    "stars": 200,
+    "language": "Java",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "mindolph/Mindolph",
+    "stars": 200,
+    "language": "Java",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "secondly-com/OpenPhone",
+    "stars": 200,
+    "language": "Java",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "OCR4all/LAREX",
+    "stars": 200,
+    "language": "Java",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "TerraformersMC/Terrestria",
+    "stars": 200,
+    "language": "Java",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "seexun/jmeet",
+    "stars": 200,
+    "language": "Java",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "mrvivacious/PorNo-_Porn_Blocker",
+    "stars": 200,
+    "language": "Java",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "noboomu/proteus",
+    "stars": 200,
+    "language": "Java",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "antest1/GotoBrowser",
+    "stars": 200,
+    "language": "Java",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "zycgit/hasor-old",
+    "stars": 999,
+    "language": "Java",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "leonchen83/redis-replicator",
+    "stars": 998,
+    "language": "Java",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "gsh199449/spider",
+    "stars": 998,
+    "language": "Java",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "activej/activej",
+    "stars": 997,
+    "language": "Java",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "apache/stormcrawler",
+    "stars": 996,
+    "language": "Java",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "mymagicpower/AIAS",
+    "stars": 994,
+    "language": "Java",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "getActivity/Logcat",
+    "stars": 994,
+    "language": "Java",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "LibraryOfCongress/api.congress.gov",
+    "stars": 994,
+    "language": "Java",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "MojoLauncher/MojoLauncher",
+    "stars": 993,
+    "language": "Java",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "spring-guides/gs-spring-boot",
+    "stars": 992,
+    "language": "Java",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "openjdk/jmc",
+    "stars": 988,
+    "language": "Java",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "PlayPro/CoreProtect",
+    "stars": 988,
+    "language": "Java",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "goweii/WanAndroid",
+    "stars": 987,
+    "language": "Java",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "Trinea/android-common",
+    "stars": 4995,
+    "language": "Java",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "react-native-webrtc/react-native-webrtc",
+    "stars": 4993,
+    "language": "Java",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "orientechnologies/orientdb",
+    "stars": 4987,
+    "language": "Java",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "JodaOrg/joda-time",
+    "stars": 4982,
+    "language": "Java",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "rubensousa/GravitySnapHelper",
+    "stars": 4979,
+    "language": "Java",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "mock-server/mockserver-monorepo",
+    "stars": 4974,
+    "language": "Java",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "querydsl/querydsl",
+    "stars": 4971,
+    "language": "Java",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "spring-cloud/spring-cloud-netflix",
+    "stars": 4967,
+    "language": "Java",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "oracle/opengrok",
+    "stars": 4957,
+    "language": "Java",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "AsamK/signal-cli",
+    "stars": 4931,
+    "language": "Java",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "spring-cloud/spring-cloud-gateway",
+    "stars": 4908,
+    "language": "Java",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "amitshekhariitbhu/RxJava2-Android-Samples",
+    "stars": 4905,
+    "language": "Java",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "micrometer-metrics/micrometer",
+    "stars": 4902,
+    "language": "Java",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "ReactiveX/RxAndroid",
+    "stars": 19918,
+    "language": "Java",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "YunaiV/yudao-cloud",
+    "stars": 19560,
+    "language": "Java",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "dromara/Sa-Token",
+    "stars": 19056,
+    "language": "Java",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "antlr/antlr4",
+    "stars": 19010,
+    "language": "Java",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "williamfiset/algorithms",
+    "stars": 18751,
+    "language": "Java",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "APIJSON/APIJSON",
+    "stars": 18402,
+    "language": "Java",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "ashishps1/awesome-leetcode-resources",
+    "stars": 17883,
+    "language": "Java",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "ben-manes/caffeine",
+    "stars": 17876,
+    "language": "Java",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "itwanger/toBeBetterJavaer",
+    "stars": 17671,
+    "language": "Java",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "Tencent/tinker",
+    "stars": 17654,
+    "language": "Java",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "justauth/JustAuth",
+    "stars": 17526,
+    "language": "Java",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "infinilabs/analysis-ik",
+    "stars": 17520,
+    "language": "Java",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "baomidou/mybatis-plus",
+    "stars": 17475,
+    "language": "Java",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "krahets/hello-algo",
+    "stars": 130391,
+    "language": "Java",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "iluwatar/java-design-patterns",
+    "stars": 94714,
+    "language": "Java",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "macrozheng/mall",
+    "stars": 84819,
+    "language": "Java",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "spring-projects/spring-boot",
+    "stars": 81487,
+    "language": "Java",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "NationalSecurityAgency/ghidra",
+    "stars": 79440,
+    "language": "Java",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "doocs/advanced-java",
+    "stars": 79125,
+    "language": "Java",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "elastic/elasticsearch",
+    "stars": 77967,
+    "language": "Java",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "MisterBooo/LeetCodeAnimation",
+    "stars": 76707,
+    "language": "Java",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "TheAlgorithms/Java",
+    "stars": 66302,
+    "language": "Java",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "termux/termux-app",
+    "stars": 61268,
+    "language": "Java",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "spring-projects/spring-framework",
+    "stars": 60260,
+    "language": "Java",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "google/guava",
+    "stars": 51907,
+    "language": "Java",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "dbeaver/dbeaver",
+    "stars": 51844,
+    "language": "Java",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "AkihiroSuda/alcless",
+    "stars": 200,
+    "language": "Go",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "bugsnag/bugsnag-go",
+    "stars": 200,
+    "language": "Go",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "lm317379829/TGFileBot",
+    "stars": 200,
+    "language": "Go",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "apache/casbin-redis-adapter",
+    "stars": 200,
+    "language": "Go",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "zenghongtu/paseo-relay",
+    "stars": 200,
+    "language": "Go",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "kkdai/LineBotTemplate",
+    "stars": 200,
+    "language": "Go",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "algolia/algoliasearch-client-go",
+    "stars": 200,
+    "language": "Go",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "coinbase/mesh-sdk-go",
+    "stars": 200,
+    "language": "Go",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "go-kod/kod",
+    "stars": 200,
+    "language": "Go",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "mongodb/mongodb-atlas-kubernetes",
+    "stars": 200,
+    "language": "Go",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "seborama/govcr",
+    "stars": 200,
+    "language": "Go",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "vicentereig/whatsapp-cli",
+    "stars": 200,
+    "language": "Go",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "shenaba/2s-ui",
+    "stars": 200,
+    "language": "Go",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "DataDog/KubeHound",
+    "stars": 1000,
+    "language": "Go",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "rokath/trice",
+    "stars": 999,
+    "language": "Go",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "open-feature/flagd",
+    "stars": 999,
+    "language": "Go",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "sohaha/zlsgo",
+    "stars": 999,
+    "language": "Go",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "piotrnar/gocoin",
+    "stars": 999,
+    "language": "Go",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "celestiaorg/celestia-node",
+    "stars": 998,
+    "language": "Go",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "mat/besticon",
+    "stars": 998,
+    "language": "Go",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "liweiyi88/onedump",
+    "stars": 997,
+    "language": "Go",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "sylabs/singularity",
+    "stars": 996,
+    "language": "Go",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "scaleway/scaleway-cli",
+    "stars": 996,
+    "language": "Go",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "qifengzhang007/GinSkeleton",
+    "stars": 995,
+    "language": "Go",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "gotomicro/ego",
+    "stars": 994,
+    "language": "Go",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "rogpeppe/go-internal",
+    "stars": 993,
+    "language": "Go",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "gopl-zh/gopl-zh.github.com",
+    "stars": 4993,
+    "language": "Go",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "testcontainers/testcontainers-go",
+    "stars": 4988,
+    "language": "Go",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "nsf/gocode",
+    "stars": 4986,
+    "language": "Go",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "uptrace/bun",
+    "stars": 4976,
+    "language": "Go",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "hashicorp/terraform-provider-azurerm",
+    "stars": 4972,
+    "language": "Go",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "go-mysql-org/go-mysql",
+    "stars": 4969,
+    "language": "Go",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "slack-go/slack",
+    "stars": 4965,
+    "language": "Go",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "apache/dubbo-go",
+    "stars": 4964,
+    "language": "Go",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-collector-contrib",
+    "stars": 4949,
+    "language": "Go",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "WuKongIM/WuKongIM",
+    "stars": 4949,
+    "language": "Go",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "unidoc/unioffice",
+    "stars": 4936,
+    "language": "Go",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "crazy-max/diun",
+    "stars": 4934,
+    "language": "Go",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "mailru/easyjson",
+    "stars": 4918,
+    "language": "Go",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "putyy/res-downloader",
+    "stars": 19979,
+    "language": "Go",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "dariubs/GoBooks",
+    "stars": 19683,
+    "language": "Go",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "lionsoul2014/ip2region",
+    "stars": 19553,
+    "language": "Go",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "google/cadvisor",
+    "stars": 19439,
+    "language": "Go",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "golangci/golangci-lint",
+    "stars": 19394,
+    "language": "Go",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "google/gvisor",
+    "stars": 19393,
+    "language": "Go",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "probelabs/goreplay",
+    "stars": 19322,
+    "language": "Go",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "golang-migrate/migrate",
+    "stars": 18936,
+    "language": "Go",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "keploy/keploy",
+    "stars": 18479,
+    "language": "Go",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "slackhq/nebula",
+    "stars": 18374,
+    "language": "Go",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "sqlc-dev/sqlc",
+    "stars": 18315,
+    "language": "Go",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "ginuerzh/gost",
+    "stars": 18231,
+    "language": "Go",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "TheAlgorithms/Go",
+    "stars": 18222,
+    "language": "Go",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "avelino/awesome-go",
+    "stars": 185194,
+    "language": "Go",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "ollama/ollama",
+    "stars": 181497,
+    "language": "Go",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "golang/go",
+    "stars": 138959,
+    "language": "Go",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "kubernetes/kubernetes",
+    "stars": 127914,
+    "language": "Go",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "microsoft/TypeScript",
+    "stars": 111162,
+    "language": "Go",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "fatedier/frp",
+    "stars": 109574,
+    "language": "Go",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "JuliusBrussee/caveman",
+    "stars": 107417,
+    "language": "Go",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "infiniflow/ragflow",
+    "stars": 91190,
+    "language": "Go",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "stars": 89908,
+    "language": "Go",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "gin-gonic/gin",
+    "stars": 89246,
+    "language": "Go",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "syncthing/syncthing",
+    "stars": 88855,
+    "language": "Go",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "junegunn/fzf",
+    "stars": 83203,
+    "language": "Go",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "jesseduffield/lazygit",
+    "stars": 82584,
+    "language": "Go",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "public-awesome/cw-nfts",
+    "stars": 200,
+    "language": "Rust",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "unicode-rs/unicode-normalization",
+    "stars": 200,
+    "language": "Rust",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "nmeylan/rust-ro",
+    "stars": 200,
+    "language": "Rust",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "Sohimaster/traur",
+    "stars": 200,
+    "language": "Rust",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "junkdog/beamterm",
+    "stars": 200,
+    "language": "Rust",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "hyperium/headers",
+    "stars": 200,
+    "language": "Rust",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "imxrt-rs/imxrt-hal",
+    "stars": 200,
+    "language": "Rust",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "IngvarConsulting/unica",
+    "stars": 200,
+    "language": "Rust",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "0x2a-42/lelwel",
+    "stars": 200,
+    "language": "Rust",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "csbuddhist/Karma",
+    "stars": 200,
+    "language": "Rust",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "rust-lang/rustwide",
+    "stars": 200,
+    "language": "Rust",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "Gnarus-G/maccel",
+    "stars": 200,
+    "language": "Rust",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "georust/geo-index",
+    "stars": 200,
+    "language": "Rust",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "danielpclark/rutie",
+    "stars": 1000,
+    "language": "Rust",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "kunkka19xx/look",
+    "stars": 1000,
+    "language": "Rust",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "tag1consulting/goose",
+    "stars": 998,
+    "language": "Rust",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "dtolnay/trybuild",
+    "stars": 998,
+    "language": "Rust",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "InkSha/rust-tutorial",
+    "stars": 998,
+    "language": "Rust",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "tweedegolf/mailcrab",
+    "stars": 997,
+    "language": "Rust",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "Losses/rune",
+    "stars": 996,
+    "language": "Rust",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "rbakbashev/elfcat",
+    "stars": 995,
+    "language": "Rust",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "next-hat/nanocl",
+    "stars": 995,
+    "language": "Rust",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "pionxzh/wakaru",
+    "stars": 995,
+    "language": "Rust",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "lumen-oss/lux",
+    "stars": 995,
+    "language": "Rust",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "TransformerOptimus/SuperCoder",
+    "stars": 995,
+    "language": "Rust",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "r-lib/rig",
+    "stars": 995,
+    "language": "Rust",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "unhappychoice/gitlogue",
+    "stars": 4993,
+    "language": "Rust",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "agentgateway/agentgateway",
+    "stars": 4990,
+    "language": "Rust",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "mozilla/uniffi-rs",
+    "stars": 4982,
+    "language": "Rust",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "tauri-apps/wry",
+    "stars": 4968,
+    "language": "Rust",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "triwinds/ns-emu-tools",
+    "stars": 4958,
+    "language": "Rust",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "withcoral/coral",
+    "stars": 4944,
+    "language": "Rust",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "apache/iggy",
+    "stars": 4932,
+    "language": "Rust",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "matter-labs/zksync",
+    "stars": 4923,
+    "language": "Rust",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "xingkongliang/skills-manager",
+    "stars": 4912,
+    "language": "Rust",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "PerryTS/perry",
+    "stars": 4879,
+    "language": "Rust",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "asterinas/asterinas",
+    "stars": 4866,
+    "language": "Rust",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "rusterlium/rustler",
+    "stars": 4864,
+    "language": "Rust",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "dtolnay/proc-macro-workshop",
+    "stars": 4862,
+    "language": "Rust",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "firecrawl/pdf-inspector",
+    "stars": 19296,
+    "language": "Rust",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "Orange-OpenSource/hurl",
+    "stars": 19212,
+    "language": "Rust",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "facebook/relay",
+    "stars": 18963,
+    "language": "Rust",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "iii-hq/iii",
+    "stars": 18798,
+    "language": "Rust",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "ccusage/ccusage",
+    "stars": 18696,
+    "language": "Rust",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "bytecodealliance/wasmtime",
+    "stars": 18651,
+    "language": "Rust",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "google/magika",
+    "stars": 18644,
+    "language": "Rust",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "ruffle-rs/ruffle",
+    "stars": 18565,
+    "language": "Rust",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "rust-lang/book",
+    "stars": 18326,
+    "language": "Rust",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "jlcodes99/cockpit-tools",
+    "stars": 18252,
+    "language": "Rust",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "RightNow-AI/openfang",
+    "stars": 18213,
+    "language": "Rust",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "gfx-rs/wgpu",
+    "stars": 18091,
+    "language": "Rust",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "louis-e/arnis",
+    "stars": 18045,
+    "language": "Rust",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "ultraworkers/claw-code",
+    "stars": 195281,
+    "language": "Rust",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "clash-verge-rev/clash-verge-rev",
+    "stars": 146563,
+    "language": "Rust",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "farion1231/cc-switch",
+    "stars": 134799,
+    "language": "Rust",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "openai/codex",
+    "stars": 126019,
+    "language": "Rust",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "rustdesk/rustdesk",
+    "stars": 124304,
+    "language": "Rust",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "rust-lang/rust",
+    "stars": 119059,
+    "language": "Rust",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "tauri-apps/tauri",
+    "stars": 111277,
+    "language": "Rust",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "denoland/deno",
+    "stars": 108479,
+    "language": "Rust",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "oven-sh/bun",
+    "stars": 96013,
+    "language": "Rust",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "ruvnet/RuView",
+    "stars": 94789,
+    "language": "Rust",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "zed-industries/zed",
+    "stars": 90735,
+    "language": "Rust",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "astral-sh/uv",
+    "stars": 90075,
+    "language": "Rust",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "rtk-ai/rtk",
+    "stars": 81465,
+    "language": "Rust",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "X-Friese/FlyWithLua",
+    "stars": 200,
+    "language": "C++",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "0xMohammedHassan/morphkatz",
+    "stars": 200,
+    "language": "C++",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "wangyu-/NC2000",
+    "stars": 200,
+    "language": "C++",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "datawhalechina/smoothly-vslam",
+    "stars": 200,
+    "language": "C++",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "NVIDIA-ISAAC-ROS/isaac_ros_apriltag",
+    "stars": 200,
+    "language": "C++",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "MysteriousJ/Joystick-Input-Examples",
+    "stars": 200,
+    "language": "C++",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "basiliscos/syncspirit",
+    "stars": 200,
+    "language": "C++",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "hailo-ai/tappas",
+    "stars": 200,
+    "language": "C++",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "UniversalRobots/Universal_Robots_Client_Library",
+    "stars": 200,
+    "language": "C++",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "geemaple/leetcode",
+    "stars": 200,
+    "language": "C++",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "uav4geo/OpenPointClass",
+    "stars": 200,
+    "language": "C++",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "pywinrt/pywinrt",
+    "stars": 200,
+    "language": "C++",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "benjiqq/bitcoinArchive",
+    "stars": 200,
+    "language": "C++",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "rakshasa/libtorrent",
+    "stars": 1000,
+    "language": "C++",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "zhongyang219/TrafficMonitorPlugins",
+    "stars": 1000,
+    "language": "C++",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "jasp-stats/jasp-desktop",
+    "stars": 1000,
+    "language": "C++",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "mysql/mysql-workbench",
+    "stars": 999,
+    "language": "C++",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "mohsenph69/Godot-MTerrain-plugin",
+    "stars": 999,
+    "language": "C++",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "opencog/atomspace",
+    "stars": 998,
+    "language": "C++",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "margelo/react-native-nitro-fetch",
+    "stars": 997,
+    "language": "C++",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "grumpycoders/pcsx-redux",
+    "stars": 997,
+    "language": "C++",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "jlrouzies-fr/DLSS5-Feeder",
+    "stars": 997,
+    "language": "C++",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "educ8s/Raylib-CPP-Starter-Template-for-VSCODE-V2",
+    "stars": 996,
+    "language": "C++",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "uu-code007/PixelFreeEffects",
+    "stars": 996,
+    "language": "C++",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "mhogomchungu/sirikali",
+    "stars": 995,
+    "language": "C++",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "ultimatepp/ultimatepp",
+    "stars": 995,
+    "language": "C++",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "zufuliu/notepad4",
+    "stars": 5000,
+    "language": "C++",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "mhogomchungu/media-downloader",
+    "stars": 4996,
+    "language": "C++",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "KDE/ghostwriter",
+    "stars": 4986,
+    "language": "C++",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "CrowCpp/Crow",
+    "stars": 4983,
+    "language": "C++",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "mavlink/qgroundcontrol",
+    "stars": 4973,
+    "language": "C++",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "begeekmyfriend/yasea",
+    "stars": 4940,
+    "language": "C++",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "alandefreitas/matplotplusplus",
+    "stars": 4931,
+    "language": "C++",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "Chlumsky/msdfgen",
+    "stars": 4930,
+    "language": "C++",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "MaaXYZ/MaaFramework",
+    "stars": 4908,
+    "language": "C++",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "arrayfire/arrayfire",
+    "stars": 4902,
+    "language": "C++",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "rakshasa/rtorrent",
+    "stars": 4864,
+    "language": "C++",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "spaceandtimefdn/blitzar",
+    "stars": 4862,
+    "language": "C++",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "clangen/musikcube",
+    "stars": 4844,
+    "language": "C++",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "RPCS3/rpcs3",
+    "stars": 19840,
+    "language": "C++",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "Atmosphere-NX/Atmosphere",
+    "stars": 19820,
+    "language": "C++",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "rizinorg/cutter",
+    "stars": 19785,
+    "language": "C++",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "kyleneideck/BackgroundMusic",
+    "stars": 19295,
+    "language": "C++",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "uNetworking/uWebSockets",
+    "stars": 18990,
+    "language": "C++",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "swoole/swoole-src",
+    "stars": 18919,
+    "language": "C++",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "react/yoga",
+    "stars": 18912,
+    "language": "C++",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "lightgbm-org/LightGBM",
+    "stars": 18798,
+    "language": "C++",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "Tencent/MMKV",
+    "stars": 18740,
+    "language": "C++",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "moonlight-stream/moonlight-qt",
+    "stars": 18729,
+    "language": "C++",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "wled/WLED",
+    "stars": 18705,
+    "language": "C++",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "facebook/hhvm",
+    "stars": 18666,
+    "language": "C++",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "audacity/audacity",
+    "stars": 18538,
+    "language": "C++",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "tensorflow/tensorflow",
+    "stars": 200262,
+    "language": "C++",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "ggml-org/llama.cpp",
+    "stars": 129246,
+    "language": "C++",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "react/react-native",
+    "stars": 126702,
+    "language": "C++",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "electron/electron",
+    "stars": 123202,
+    "language": "C++",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "godotengine/godot",
+    "stars": 117620,
+    "language": "C++",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "microsoft/terminal",
+    "stars": 104965,
+    "language": "C++",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "opencv/opencv",
+    "stars": 90937,
+    "language": "C++",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "bitcoin/bitcoin",
+    "stars": 90232,
+    "language": "C++",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "tesseract-ocr/tesseract",
+    "stars": 76634,
+    "language": "C++",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "ocornut/imgui",
+    "stars": 76322,
+    "language": "C++",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "protocolbuffers/protobuf",
+    "stars": 72057,
+    "language": "C++",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "LadybirdBrowser/ladybird",
+    "stars": 66276,
+    "language": "C++",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "WerWolv/ImHex",
+    "stars": 54872,
+    "language": "C++",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "Dimentium/homebrew-autoraise",
+    "stars": 200,
+    "language": "Ruby",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "mogest/prawn-svg",
+    "stars": 200,
+    "language": "Ruby",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "airbnb/lottie-spm",
+    "stars": 200,
+    "language": "Ruby",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "vmware/dod-compliance-and-automation",
+    "stars": 200,
+    "language": "Ruby",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "akabiru/faker-bot",
+    "stars": 200,
+    "language": "Ruby",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "rubymonolith/fixturebot",
+    "stars": 199,
+    "language": "Ruby",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "yippee-fun/quickdraw",
+    "stars": 199,
+    "language": "Ruby",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "omniauth/omniauth_openid_connect",
+    "stars": 199,
+    "language": "Ruby",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "jfqd/redmine_helpdesk",
+    "stars": 199,
+    "language": "Ruby",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "urbanairship/ruby-library",
+    "stars": 199,
+    "language": "Ruby",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "vigo/ruby101-kitap",
+    "stars": 199,
+    "language": "Ruby",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "bytedance/Bytedance-UnionAD",
+    "stars": 199,
+    "language": "Ruby",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "red-data-tools/charty",
+    "stars": 199,
+    "language": "Ruby",
+    "bucket": "50..200"
+  },
+  {
+    "repo": "flavorjones/loofah",
+    "stars": 1000,
+    "language": "Ruby",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "stripe-ruby-mock/stripe-ruby-mock",
+    "stars": 997,
+    "language": "Ruby",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "thuss/standalone-migrations",
+    "stars": 994,
+    "language": "Ruby",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "ankane/ruby-polars",
+    "stars": 994,
+    "language": "Ruby",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "heroku/heroku-buildpack-python",
+    "stars": 992,
+    "language": "Ruby",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "alexch/rerun",
+    "stars": 990,
+    "language": "Ruby",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "camping/camping",
+    "stars": 990,
+    "language": "Ruby",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "getsentry/sentry-ruby",
+    "stars": 989,
+    "language": "Ruby",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "rails/sprockets",
+    "stars": 986,
+    "language": "Ruby",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "SAML-Toolkits/ruby-saml",
+    "stars": 984,
+    "language": "Ruby",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "rails-sqlserver/activerecord-sqlserver-adapter",
+    "stars": 980,
+    "language": "Ruby",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "strzibny/invoice_printer",
+    "stars": 979,
+    "language": "Ruby",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "k0kubun/hamlit",
+    "stars": 977,
+    "language": "Ruby",
+    "bucket": "200..1000"
+  },
+  {
+    "repo": "ddnexus/pagy",
+    "stars": 4990,
+    "language": "Ruby",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "mbleigh/acts-as-taggable-on",
+    "stars": 4988,
+    "language": "Ruby",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "react-native-config/react-native-config",
+    "stars": 4955,
+    "language": "Ruby",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "opal/opal",
+    "stars": 4926,
+    "language": "Ruby",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "simplecov-ruby/simplecov",
+    "stars": 4924,
+    "language": "Ruby",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "github/explore",
+    "stars": 4894,
+    "language": "Ruby",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "red-data-tools/YouPlot",
+    "stars": 4852,
+    "language": "Ruby",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "lobsters/lobsters",
+    "stars": 4840,
+    "language": "Ruby",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "prawnpdf/prawn",
+    "stars": 4822,
+    "language": "Ruby",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "lolcommits/lolcommits",
+    "stars": 4819,
+    "language": "Ruby",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "ankane/blazer",
+    "stars": 4801,
+    "language": "Ruby",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "SteveLTN/https-portal",
+    "stars": 4694,
+    "language": "Ruby",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "basecamp/once-campfire",
+    "stars": 4643,
+    "language": "Ruby",
+    "bucket": "1000..5000"
+  },
+  {
+    "repo": "lewagon/setup",
+    "stars": 19607,
+    "language": "Ruby",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "docusealco/docuseal",
+    "stars": 18601,
+    "language": "Ruby",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "postalserver/postal",
+    "stars": 16823,
+    "language": "Ruby",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "opf/openproject",
+    "stars": 16189,
+    "language": "Ruby",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "spree/spree",
+    "stars": 15716,
+    "language": "Ruby",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "Homebrew/homebrew-core",
+    "stars": 15583,
+    "language": "Ruby",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "chentsulin/awesome-graphql",
+    "stars": 15121,
+    "language": "Ruby",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "CocoaPods/CocoaPods",
+    "stars": 14832,
+    "language": "Ruby",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "mame/quine-relay",
+    "stars": 14605,
+    "language": "Ruby",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "basecamp/kamal",
+    "stars": 14596,
+    "language": "Ruby",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "neutraltone/awesome-stock-resources",
+    "stars": 14557,
+    "language": "Ruby",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "tmuxinator/tmuxinator",
+    "stars": 13728,
+    "language": "Ruby",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "github-linguist/linguist",
+    "stars": 13700,
+    "language": "Ruby",
+    "bucket": "5000..20000"
+  },
+  {
+    "repo": "rails/rails",
+    "stars": 58787,
+    "language": "Ruby",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "jekyll/jekyll",
+    "stars": 51681,
+    "language": "Ruby",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "mastodon/mastodon",
+    "stars": 50313,
+    "language": "Ruby",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "huginn/huginn",
+    "stars": 49983,
+    "language": "Ruby",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "Homebrew/brew",
+    "stars": 49752,
+    "language": "Ruby",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "discourse/discourse",
+    "stars": 47885,
+    "language": "Ruby",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "fastlane/fastlane",
+    "stars": 42145,
+    "language": "Ruby",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "freeCodeCamp/devdocs",
+    "stars": 39479,
+    "language": "Ruby",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "rapid7/metasploit-framework",
+    "stars": 39040,
+    "language": "Ruby",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "chatwoot/chatwoot",
+    "stars": 37080,
+    "language": "Ruby",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "hashicorp/vagrant",
+    "stars": 27210,
+    "language": "Ruby",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "matteocrippa/awesome-swift",
+    "stars": 26267,
+    "language": "Ruby",
+    "bucket": ">20000"
+  },
+  {
+    "repo": "gitlabhq/gitlabhq",
+    "stars": 24543,
+    "language": "Ruby",
+    "bucket": ">20000"
+  }
+]
